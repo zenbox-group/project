@@ -7,5 +7,6 @@
 /phpunit.xml
 /vendor/
 /data
+composer.lock
 !/data/cache
 !/data/cache/.gitkeep
